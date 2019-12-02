@@ -1,0 +1,30 @@
+_repo: The-House-of-Quiet-An-Autobiography_60783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Benson, A. C. (Arthur Christopher)
+    - Carr, Christopher
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2019-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60783'
+  lccn: '07021535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Benson, Arthur Christopher, 1862-1925'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- GITenberg
+title: 'The House of Quiet: An Autobiography'
+url: http://www.gutenberg.org/ebooks/60783
